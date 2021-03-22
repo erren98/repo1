@@ -1,3 +1,6 @@
 This is File A.
 Line2
 done by dev1.
+a small change
+Another Change
+Big Change
